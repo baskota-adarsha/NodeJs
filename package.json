@@ -1,0 +1,29 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "https://github.com/baskota-adarsha/NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baskota-adarsha/NodeJs.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baskota-adarsha/NodeJs/issues"
+  },
+  "homepage": "https://github.com/baskota-adarsha/NodeJs#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "npx": "^10.2.2",
+    "then": "^0.0.1",
+    "ts-node-dev": "^2.0.0",
+    "tsc": "^2.0.4",
+    "typescript": "^7.0.2"
+  }
+}
